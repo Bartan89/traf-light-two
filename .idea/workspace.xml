@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ab95501-3060-4b31-b0fd-c922c35545d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/tuetryserver-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/tuetryserver-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/tuetryserver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/tuetryserver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/server/trafficLight.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/server/trafficLight.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kpcfDiPDPz6Xgqq1Y7hd1V24xY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TrafficLights" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="TrafficLights" />
+      <module name="tuetryserver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TrafficLights" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ab95501-3060-4b31-b0fd-c922c35545d6" name="Default Changelist" comment="" />
+      <created>1606401074482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606401074482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1606401230574">
+      <screen x="-1920" y="-708" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/-1920.-708.1920.1080/0.0.1792.1120@-1920.-708.1920.1080" timestamp="1606401230574" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1606401230571">
+      <screen x="-1920" y="-708" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/-1920.-708.1920.1080/0.0.1792.1120@-1920.-708.1920.1080" timestamp="1606401230571" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1606401230570">
+      <screen x="-1920" y="-708" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/-1920.-708.1920.1080/0.0.1792.1120@-1920.-708.1920.1080" timestamp="1606401230570" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1606401230573">
+      <screen x="-1920" y="-708" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/-1920.-708.1920.1080/0.0.1792.1120@-1920.-708.1920.1080" timestamp="1606401230573" />
+  </component>
+</project>
